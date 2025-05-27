@@ -1,5 +1,5 @@
 ####Zombie Dice Bots
-print("Praveen Kumar G R, USN:1AY24AI084, SEC:O")
+print("Nisarg , USN:1AY24AI077, SEC:O")
 import random
 
 DICE_POOL = {
